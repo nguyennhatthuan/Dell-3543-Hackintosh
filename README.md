@@ -5,10 +5,10 @@
 + 独显：Nvidia 820M
 
 ### 注
-最初上传的EFI文件夹为10.13.5 High Sierra
+最初上传的EFI文件夹针对的是 High Sierra 10.13.5 
 
 ### 更新日志
-`2020/4/7  上传10.14.6 Majave EFI`
+`2020/4/7  上传 Majave 10.14.6 EFI`
 
 ----------------
 感谢[@kkzzhizhou](https://github.com/kkzzhizhou)的 [Dell-3443-Hackintosh](https://github.com/kkzzhizhou/Dell-3443-Hackintosh)
