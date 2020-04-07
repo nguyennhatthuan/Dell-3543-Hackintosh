@@ -45,102 +45,102 @@
 			<key>Extended Functions</key>
 			<dict>
 				<key>F13</key>
-				<string></string>
+				<string>ALT CMD ESC</string>
 				<key>F14</key>
 				<string></string>
 				<key>F15</key>
 				<string></string>
 				<key>F16</key>
-				<string></string>
+				<string>ALT CMD D</string>
 				<key>F17</key>
-				<string></string>
+				<string>CTRL DAW</string>
 				<key>F18</key>
-				<string></string>
+				<string>CTRL UAW</string>
 				<key>F19</key>
-				<string></string>
+				<string>CTRL LAW</string>
 				<key>F20</key>
-				<string></string>
+				<string>CTRL RAW</string>
 				<key>F21</key>
 				<string></string>
 				<key>F22</key>
 				<string></string>
 				<key>F23</key>
-				<string></string>
+				<string>CMD Q</string>
 				<key>F24</key>
-				<string></string>
+				<string>CMD H</string>
 			</dict>
 			<key>Fn Keys Mode 1</key>
 			<dict>
 				<key>BrightnessDown</key>
-				<string>F11</string>
-				<key>BrightnessUp</key>
-				<string>F12</string>
-				<key>KBBacklightDown</key>
-				<string></string>
-				<key>KBBacklightUp</key>
-				<string></string>
-				<key>Launchpad</key>
-				<string></string>
-				<key>MediaNext</key>
-				<string>F6</string>
-				<key>MediaPlayPause</key>
-				<string>F5</string>
-				<key>MediaPrevious</key>
-				<string>F4</string>
-				<key>Misson Control</key>
-				<string></string>
-				<key>SleepDisplay</key>
-				<string></string>
-				<key>Touchpad</key>
-				<string></string>
-				<key>VideoMirror</key>
-				<string></string>
-				<key>VolumeDown</key>
-				<string>F2</string>
-				<key>VolumeMute</key>
 				<string>F1</string>
-				<key>VolumeUp</key>
+				<key>BrightnessUp</key>
+				<string>F2</string>
+				<key>KBBacklightDown</key>
 				<string>F3</string>
+				<key>KBBacklightUp</key>
+				<string>F4</string>
+				<key>Launchpad</key>
+				<string>F4</string>
+				<key>MediaNext</key>
+				<string>F9</string>
+				<key>MediaPlayPause</key>
+				<string>F8</string>
+				<key>MediaPrevious</key>
+				<string>F7</string>
+				<key>Misson Control</key>
+				<string>F3</string>
+				<key>SleepDisplay</key>
+				<string>F5</string>
+				<key>Touchpad</key>
+				<string>Pause</string>
+				<key>VideoMirror</key>
+				<string>F6</string>
+				<key>VolumeDown</key>
+				<string>F11</string>
+				<key>VolumeMute</key>
+				<string>F10</string>
+				<key>VolumeUp</key>
+				<string>F12</string>
 			</dict>
 			<key>Fn Keys Mode 2</key>
 			<dict>
 				<key>BrightnessDown</key>
-				<string>F11</string>
-				<key>BrightnessUp</key>
-				<string>F12</string>
-				<key>KBBacklightDown</key>
-				<string></string>
-				<key>KBBacklightUp</key>
-				<string></string>
-				<key>Launchpad</key>
-				<string></string>
-				<key>MediaNext</key>
-				<string>F6</string>
-				<key>MediaPlayPause</key>
 				<string>F5</string>
-				<key>MediaPrevious</key>
-				<string>F4</string>
-				<key>Misson Control</key>
-				<string></string>
-				<key>SleepDisplay</key>
-				<string></string>
-				<key>SystemSleep</key>
-				<string></string>
-				<key>Touchpad</key>
-				<string></string>
-				<key>VideoMirror</key>
-				<string></string>
-				<key>VolumeDown</key>
-				<string>F2</string>
-				<key>VolumeMute</key>
-				<string>F1</string>
-				<key>VolumeUp</key>
+				<key>BrightnessUp</key>
+				<string>F6</string>
+				<key>KBBacklightDown</key>
 				<string>F3</string>
+				<key>KBBacklightUp</key>
+				<string>F4</string>
+				<key>Launchpad</key>
+				<string>F4</string>
+				<key>MediaNext</key>
+				<string>ArrowRight</string>
+				<key>MediaPlayPause</key>
+				<string>ArrowDown</string>
+				<key>MediaPrevious</key>
+				<string>ArrowLeft</string>
+				<key>Misson Control</key>
+				<string>F3</string>
+				<key>SleepDisplay</key>
+				<string>F7</string>
+				<key>SystemSleep</key>
+				<string>F1</string>
+				<key>Touchpad</key>
+				<string>F9</string>
+				<key>VideoMirror</key>
+				<string>F8</string>
+				<key>VolumeDown</key>
+				<string>F11</string>
+				<key>VolumeMute</key>
+				<string>F10</string>
+				<key>VolumeUp</key>
+				<string>F12</string>
 			</dict>
 			<key>Fn keys Layout</key>
-			<string></string>
+			<string>NONE</string>
 			<key>Fn keys Mode</key>
-			<integer>0</integer>
+			<integer>2</integer>
 			<key>IOClass</key>
 			<string>ApplePS2Keyboard</string>
 			<key>IOProviderClass</key>
@@ -152,21 +152,21 @@
 				<key>Disable Num Lock LED</key>
 				<false/>
 				<key>Enable Extended Functions</key>
-				<false/>
+				<true/>
 				<key>Enable Sierra Caps Lock Fix</key>
 				<true/>
 				<key>FinerFnBrightnessControl</key>
-				<false/>
+				<true/>
 				<key>FinerFnVolumeControl</key>
-				<false/>
+				<true/>
 				<key>Make Caps Lock into key</key>
-				<integer>68</integer>
+				<integer>0</integer>
 				<key>Make ISO keypad key . to ,</key>
 				<false/>
 				<key>Make Num Lock into Clear</key>
 				<false/>
 				<key>Make context menu key into key</key>
-				<integer>0</integer>
+				<integer>84</integer>
 				<key>Make delete key into cmd + backspace</key>
 				<false/>
 				<key>Make right alt into key</key>
@@ -174,11 +174,11 @@
 				<key>Make right control into key</key>
 				<integer>0</integer>
 				<key>Make shift + caps into Fn key</key>
-				<false/>
+				<true/>
 				<key>Num Lock enabled at boot</key>
 				<false/>
 				<key>Swap alt and windows key</key>
-				<false/>
+				<true/>
 			</dict>
 			<key>ProductID</key>
 			<integer>782</integer>
