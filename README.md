@@ -18,4 +18,5 @@
 
 ----------------
 跪谢大神[Lucs hack](https://www.youtube.com/channel/UC6MjNzghHjTRD8dHgOBlkBA)
+
 感谢[@kkzzhizhou](https://github.com/kkzzhizhou)的 [Dell-3443-Hackintosh](https://github.com/kkzzhizhou/Dell-3443-Hackintosh)
