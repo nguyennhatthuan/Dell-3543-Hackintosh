@@ -2,7 +2,7 @@
 + 主板: Broadwell-U 09
 + CPU: 酷睿 i5-5200U
 + 核显：HD5500
-+ 独显：Nvidia 820M(disabled)
++ 独显：Nvidia 820M (disabled)
 
 *注：最初上传的EFI文件夹是10.13.5 High Sierra*
 
