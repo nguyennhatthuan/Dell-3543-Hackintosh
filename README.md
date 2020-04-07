@@ -4,7 +4,7 @@
 + 核显：HD5500
 + 独显：Nvidia 820M
 
-*注：最初上传的EFI文件夹针对的是10.13.5 High Sierra*
+*注：最初上传的EFI文件夹是10.13.5 High Sierra*
 
 ### 更新日志
 `2020/4/7  上传10.14.6 Majave EFI`
