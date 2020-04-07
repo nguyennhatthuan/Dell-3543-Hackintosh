@@ -14,8 +14,8 @@
 
 ### 更新日志
 `2020/4/7  上传10.14.6 Majave EFI`
-`2020/4/8  更新EFI至10.15.3 Catalina`
 
+`2020/4/8  更新EFI至10.15.3 Catalina`
 ----------------
 跪谢大神[Lucs hack](https://www.youtube.com/channel/UC6MjNzghHjTRD8dHgOBlkBA)
 
