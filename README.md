@@ -20,7 +20,7 @@ Thanks to @[Lucs hack](https://www.youtube.com/channel/UC6MjNzghHjTRD8dHgOBlkBA)
 
 感谢[@kkzzhizhou](https://github.com/kkzzhizhou)的 [Dell-3443-Hackintosh](https://github.com/kkzzhizhou/Dell-3443-Hackintosh)
 
-参考网站：
+参考：
 [tonymacx86](http://www.tonymacx86.com/)
 
 [IT密码](https://www.itpwd.com/)
