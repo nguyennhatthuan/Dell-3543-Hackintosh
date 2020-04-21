@@ -21,9 +21,9 @@ Thanks to @[Lucs hack](https://www.youtube.com/channel/UC6MjNzghHjTRD8dHgOBlkBA)
 感谢[@kkzzhizhou](https://github.com/kkzzhizhou)的 [Dell-3443-Hackintosh](https://github.com/kkzzhizhou/Dell-3443-Hackintosh)
 
 参考：
-[黑果小兵-Clover使用教程](https://blog.daliansky.net/clover-user-manual.html)
 
-[IT密码](https://www.itpwd.com/)
+http://www.tonymacx86.com
 
-[tonymacx86](http://www.tonymacx86.com/)
+https://www.itpwd.com
 
+https://blog.daliansky.net/clover-user-manual.html
