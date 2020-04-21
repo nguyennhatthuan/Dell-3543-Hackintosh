@@ -26,4 +26,4 @@ http://www.tonymacx86.com
 
 https://www.itpwd.com
 
-https://blog.daliansky.net/clover-user-manual.html
+https://blog.daliansky.net
